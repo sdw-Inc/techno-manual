@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 物件登録(情報追加)
+title: 物件登録（情報追加）
 parent: 事前設定
 grand_parent: 工程管理
 nav_order: 2

@@ -2,7 +2,7 @@
 layout: default
 title: 製品マスタ画面他機能
 parent: 製品マスタの登録
-nav_order: 5
+nav_order: 6
 has_children: false
 ---
 
